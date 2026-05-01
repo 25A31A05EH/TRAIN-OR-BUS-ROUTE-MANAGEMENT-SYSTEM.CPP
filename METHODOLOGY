@@ -1,0 +1,31 @@
+METHODOLOGY:
+
+1. The program is designed using a **menu-driven approach** to allow user interaction.
+2. A **singly linked list** is used to store railway station details dynamically.
+3. Each node contains:
+   * Station name
+   * Distance
+   * Fare
+   * Pointer to next node
+4. The **head pointer** is used to access the first node of the list.
+5. **Insertion operations** are performed:
+   * At the end (Add Station)
+   * At a specific position
+6. **Deletion operation** removes a station by searching its name and updating links.
+7. **Traversal technique** is used for:
+   * Displaying stations
+   * Searching a station
+   * Calculating total distance and fare
+
+8. A **stack data structure (array-based)** is used to:
+   * Reverse display the route
+   * Store travel history
+9. **Push operation** stores station names into the stack during traversal.
+
+10. **Pop operation** retrieves station names for reverse display and history output.
+
+11. A **travel simulation** is performed by visiting each node sequentially and storing visited stations in the stack.
+
+12. The program uses **loops and conditional statements** to control flow and handle different operations.
+
+13. The program continues execution until the user selects the **Exit option**.
