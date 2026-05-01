@@ -1,0 +1,11 @@
+NO.OF MODULES:
+1.Linked List Module
+(Add, Insert, Delete, Display)
+2.Search & Calculation Module
+(Search, Total Distance, Total Fare)
+3.Stack Module
+(Push, Pop for reverse & history)
+4.Travel Simulation Module
+(Simulate journey + store history)
+5.Main Menu Module
+(User interaction & control flow)
